@@ -1,0 +1,11 @@
+<ion-view view-title="设置">
+	<ion-content overflow-scroll="false">
+	<ion-list>
+		<ion-toggle ng-repeat="item in items" ng-model="item.selected">{{item.text}}</ion-toggle>
+		<ion-item>版本号<i class="badge">0.0.0.1</i></ion-item>
+		<ion-item class="item-divider"></ion-item>
+		<a href="#/tab/modify-psw" class="item">修改登录密码</a>
+		<a href="#/login" class="item">注销登录</a>
+	</ion-list>
+	</ion-content>
+</ion-view>

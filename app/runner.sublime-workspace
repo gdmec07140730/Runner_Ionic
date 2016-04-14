@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"code",
+				"cordovaBarcodeScanner"
+			],
+			[
+				"cor",
+				"cordovaDevice"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"ion",
+				"ion-item"
+			],
+			[
+				"ion-",
+				"ion-content"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"ioni",
+				"ionicLoading"
+			],
+			[
+				"loa",
+				"localStorage"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"mysql",
+				"mysql"
+			],
+			[
+				"re",
+				"resCat"
+			],
+			[
+				"res",
+				"resCat"
+			],
+			[
+				"mys",
+				"mysql"
+			],
+			[
+				"mysqlfe",
+				"mysql_fetch_array"
+			],
+			[
+				"mysqu",
+				"mysql_query"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"user",
+				"userpwd"
+			],
+			[
+				"u",
+				"userpwd"
+			],
+			[
+				"user_",
+				"user_name"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/templates/tabs.html",
+			"settings":
+			{
+				"buffer_size": 570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tab-calendar.html",
+			"settings":
+			{
+				"buffer_size": 589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 381.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"aphp",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 208.0,
+		"history":
+		[
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp =   sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/USER/Desktop/Ionic-Calendar-master/src/rcalendar/calendar.js",
+		"/D/USER/Desktop/Ionic-Calendar-master/sublime text.sublime-project",
+		"/D/nodejsproject/hinodejs/www/index.html",
+		"/D/nodejsproject/hinodejs/www/lib/ionic-calendar/demo/calendarDemoCtrl.js",
+		"/D/USER/Desktop/Ionic-Calendar-master/dist/css/calendar.min.css",
+		"/D/USER/Desktop/Ionic-Calendar-master/dist/css/calendar.css",
+		"/D/nodejsproject/hinodejs/www/lib/ionic-calendar/demo/index.html",
+		"/D/nodejsproject/hinodejs/www/lib/ionic-calendar/templates/rcalendar/calendar.html",
+		"/D/nodejsproject/hinodejs/www/js/controllers.js",
+		"/D/nodejsproject/hinodejs/www/templates/tabs.html",
+		"/D/nodejsproject/hinodejs/www/templates/tab-dash.html",
+		"/D/USER/Desktop/Ionic-Calendar-master/dist/js/calendar-tpls.js",
+		"/D/nodejsproject/hinodejs/www/lib/ionic-calendar/dist/js/calendar-tpls.js",
+		"/D/nodejsproject/hinodejs/www/js/app.js",
+		"/D/nodejsproject/hinodejs/www/lib/ionic-calendar/templates/rcalendar/day.html",
+		"/D/nodejsproject/hinodejs/www/templates/tab-account.html",
+		"/D/nodejsproject/hinodejs/www/templates/tab-chats.html",
+		"/D/nodejsproject/hinodejs/www/templates/chat-detail.html",
+		"/D/wamp/www/Grades/Application/Admin/View/Student/index.html",
+		"/D/wamp/www/Grades/Application/Admin/View/Student/edit.html",
+		"/D/wamp/www/Grades/Application/Admin/View/Student/add.html",
+		"/D/wamp/www/Grades/Application/Common/Common/function.php",
+		"/D/wamp/www/Grades/Application/Admin/Controller/StudentController.class.php",
+		"/D/USER/Desktop/AngularJS-ResponsiveCalendar-master/demo/calendarDemoCtrl.js",
+		"/D/nodejsproject/app/www/lib/angular-ui-calendar/src/calendar.js",
+		"/D/USER/Desktop/AngularJS-ResponsiveCalendar-master/demo/index.html",
+		"/D/nodejsproject/app/www/js/calendarDemoCtrl.js",
+		"/D/nodejsproject/app/www/index.html",
+		"/D/nodejsproject/app/www/js/controllers.js",
+		"/D/wamp/www/Grades/Application/Admin/Controller/IndexController.class.php",
+		"/D/wamp/www/Grades/Application/Admin/Controller/PublicController.class.php",
+		"/D/wamp/www/Grades/Application/Admin/View/Public/passwd.html",
+		"/D/wamp/www/Grades/Application/Admin/Controller/ClassController.class.php",
+		"/D/wamp/www/NovelSystem/Application/Common/Conf/config.php",
+		"/D/wamp/www/NovelSystem/Application/Admin/View/List/getlist.html",
+		"/D/wamp/www/NovelSystem/Application/Admin/Controller/IndexController.class.php",
+		"/D/wamp/www/NovelSystem/Application/Admin/Controller/ListController.class.php",
+		"/D/wamp/www/NovelSystem/Application/Admin/Controller/WriteController.class.php",
+		"/D/wamp/www/NovelSystem/Application/Admin/View/Write/index.html",
+		"/D/wamp/www/Grades/Application/Admin/Controller/TermController.class.php",
+		"/D/wamp/www/YunShiPei_Adv/Application/Common/Conf/config.php",
+		"/D/wamp/www/Grades/Application/Admin/View/Public/login.html",
+		"/D/wamp/www/wwwroot/Application/Admin/Controller/ArticleController.class.php",
+		"/D/wamp/www/NovelSystem/Application/Admin/View/Index/index.html",
+		"/D/wamp/www/NovelSystem/Application/Admin/View/List/add.html",
+		"/D/wamp/www/NovelSystem/Application/Admin/View/List/novel.html",
+		"/D/wamp/www/wwwroot/Application/Home/Conf/config.php",
+		"/D/wamp/www/wwwroot/Application/Home/Controller/UserController.class.php",
+		"/D/nodejsproject/app/www/templates/tabs.html",
+		"/D/nodejsproject/ToDo-ionic-master/www/templates/menu.html",
+		"/D/nodejsproject/ToDo-ionic-master/www/js/app.js",
+		"/D/nodejsproject/app/www/templates/tab-me.html",
+		"/D/nodejsproject/app/www/js/app.js",
+		"/D/nodejsproject/proj11/www/js/app.js",
+		"/D/nodejsproject/proj11/www/index.html",
+		"/D/nodejsproject/apptest/www/setting.html",
+		"/D/nodejsproject/app/www/templates/setting.html",
+		"/D/USER/Desktop/办公室-林德纯.pptx",
+		"/D/nodejsproject/app/www/templates/tab-calendar.html",
+		"/D/nodejsproject/app/www/templates/tab-sport.html",
+		"/D/nodejsproject/ToDo-ionic-master/www/templates/tutorial.html",
+		"/D/nodejsproject/proj9/www/templates/weather.html",
+		"/D/nodejsproject/proj9/www/templates/helloworld.html",
+		"/D/nodejsproject/proj9/www/js/app.js",
+		"/D/nodejsproject/proj9/www/templates/cart.html",
+		"/D/nodejsproject/proj9/www/index.html",
+		"/D/nodejsproject/app/www/templates/old/tab-chats.html",
+		"/D/nodejsproject/app/www/templates/old/chat-detail.html",
+		"/D/nodejsproject/app/www/js/services.js",
+		"/D/nodejsproject/app/www/templates/tab-account.html",
+		"/D/nodejsproject/app/www/templates/tab-chats.html",
+		"/D/nodejsproject/app/www/templates/tab-dash.html",
+		"/D/nodejsproject/apptest/www/me.html",
+		"/D/nodejsproject/apptest/www/modify-me.html",
+		"/D/nodejsproject/myapp/www/templates/tabs.html",
+		"/D/nodejsproject/app/www/templates/chat-detail.html",
+		"/D/nodejsproject/myapp/www/js/app.js",
+		"/D/nodejsproject/myapp/www/templates/sport.html",
+		"/D/nodejsproject/myapp/www/templates/calendar.html",
+		"/D/nodejsproject/myapp/www/templates/me.html",
+		"/D/nodejsproject/myapp/www/index.html",
+		"/D/nodejsproject/apptest/www/index.html",
+		"/D/nodejsproject/myapp/www/templates/tab-me.html",
+		"/D/nodejsproject/myapp/www/templates/tab-calendar.html",
+		"/D/nodejsproject/myapp/www/templates/tab-sport.html",
+		"/D/nodejsproject/myapp/www/js/controllers.js",
+		"/D/nodejsproject/apptest/www/index-walk.html",
+		"/D/nodejsproject/apptest/www/index-run.html",
+		"/D/nodejsproject/myapp/www/js/services.js",
+		"/D/nodejsproject/myapp/www/templates/chat-detail.html",
+		"/D/nodejsproject/myapp/www/templates/tab-chats.html",
+		"/D/nodejsproject/myapp/www/templates/tab-dash.html",
+		"/D/nodejsproject/myapp/www/templates/tab-account.html",
+		"/D/nodejsproject/ToDo-ionic-master/www/js/services.js",
+		"/D/nodejsproject/ToDo-ionic-master/www/js/filters.js",
+		"/D/nodejsproject/ToDo-ionic-master/www/js/controllers.js",
+		"/D/nodejsproject/ToDo-ionic-master/www/js/directives.js",
+		"/D/nodejsproject/ToDo-ionic-master/www/index.html",
+		"/D/nodejsproject/proj7/www/index.html",
+		"/D/nodejsproject/proj7/www/js/app.js",
+		"/D/nodejsproject/proj7/www/js/script.js",
+		"/D/nodejsproject/runner/www/js/controllers.js",
+		"/D/nodejsproject/runner/www/js/services.js",
+		"/D/nodejsproject/runner/www/js/app.js",
+		"/D/USER/Desktop/material-date-picker-master/example/app.js",
+		"/D/USER/Desktop/material-date-picker-master/example/bower.json",
+		"/D/USER/Desktop/material-date-picker-master/example/bower_components/material-date-picker/build/mbdatepicker.js",
+		"/D/USER/Desktop/material-date-picker-master/example/index.html",
+		"/D/USER/Desktop/test/package.json",
+		"/I/大二二/手机游戏开发【潘必超】/第12次课Cocos事件/MoneyGame/src/app.js",
+		"/D/USER/Desktop/material-date-picker-master/README.md",
+		"/D/USER/Desktop/material-date-picker-master/LICENSE.md",
+		"/D/USER/Desktop/material-date-picker-master/CHANGELOG.md",
+		"/D/USER/Desktop/material-date-picker-master/package.json",
+		"/D/wamp/www/mygame/mygame/Common/Conf/config.php",
+		"/D/wamp/www/mygame/mygame/Admin/View/Index/top.html",
+		"/D/wamp/www/mygame/mygame/Admin/Controller/IndexController.class.php",
+		"/D/wamp/www/mygame/mygame/Home/Controller/IndexController.class.php",
+		"/D/wamp/www/mygame/mygame/Home/View/Lianxi/liuyan.html",
+		"/D/wamp/www/mygame/mygame/Home/Controller/LianxiController.class.php",
+		"/D/wamp/www/mygame/mygame/Admin/View/Index/left.html",
+		"/D/wamp/www/mygame/mygame/Admin/Controller/LiuyanController.class.php",
+		"/D/wamp/www/mygame/mygame/Admin/Controller/UserController.class.php",
+		"/D/wamp/www/mygame/mygame/Home/Controller/JobController.class.php",
+		"/D/wamp/www/mygame/ThinkPHP/Conf/convention.php",
+		"/D/wamp/www/mygame/ThinkPHP/Conf/debug.php",
+		"/D/wamp/www/mygame/mygame/Admin/View/User/index.html",
+		"/D/USER/Desktop/myworld.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\USER\\Desktop\\Amaze UI 模板-云适配官网\\Amaze UI 模板-云适配官网\\官网",
+			"D:\\xampps\\htdocs\\yun\\Application\\Home\\View",
+			"D:\\USER\\Desktop\\Amaze UI 模板-云适配官网"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"createRandomEvents",
+			"show",
+			"mess",
+			"退出",
+			"assets",
+			"am-active",
+			"Google",
+			"assets",
+			"www.gool",
+			"420px",
+			"265px",
+			"2012",
+			"images/",
+			"js/",
+			"images/",
+			"Mien",
+			"services_page.html",
+			"images/",
+			"js/",
+			"css/",
+			"js/",
+			"css/",
+			"images",
+			"table_id",
+			"images",
+			"setTimeout",
+			"www_zzjs_net.js",
+			"images",
+			"assets",
+			"定义应用目录",
+			"<!-- footer -->\n<footer>\n  <div class=\"am-container\">\n    <div class=\"footer-logo\">\n      <img src=\"__PUBLIC__/Home/images/logo-colorful.png\" />\n    </div>\n    <ul class=\"social-links-list\">  \n      <li>\n        <a href=\"http://wpa.qq.com/msgrd?v=3&amp;uin=744071477&amp;site=qq&amp;menu=yes\" target=\"_blank\" title=\"qq\">\n          <i class=\"am-icon-qq am-icon-sm\"></i>\n        </a>\n      </li>\n      <li>\n        <a href=\"\" target=\"_blank\" id=\"wechat\" title=\"微信\">\n          <i class=\"am-icon-weixin am-icon-sm\"></i>\n        </a>\n      </li>\n      <li>\n        <a href=\"http://weibo.com/allmobilize\" target=\"_blank\" title=\"新浪微博\">\n          <i class=\"am-icon-weibo am-icon-sm\"></i>\n        </a>\n      </li> \n    </ul>\n    <ul class=\"footer-nav\">\n      <li>\n        <a href=\"/about.html\">关于我们</a>\n      </li>\n      <li>\n        <a href=\"/faq.html\">常见问题</a>\n      </li>\n      <li>\n        <a href=\"/build.html\">移动建站白皮书</a>\n      </li>\n      <li>\n        <a href=\"http://dev.yunshipei.com/\">开发者中心</a>\n      </li>\n    </ul>\n    <ul class=\"friend-links\">\n      <li>友情链接：</li>\n      <li>\n        <a href=\"http://segmentfault.com/\" target=\"_blank\" title=\"SegmentFault\">SegmentFault</a>\n      </li>\n      <li>\n        <a href=\"http://www.zjgsq.com/\" target=\"_blank\" title=\"Web前端\">Web前端</a>\n      </li>\n      <li>\n        <a href=\"http://apicloud.com/\" target=\"_blank\" title=\"APICloud\">APICloud</a>\n      </li>\n      <li>\n        <a href=\"http://www.w3cdream.com/\" target=\"_blank\" title=\"W3C梦想站\">W3C梦想站</a>\n      </li>\n      <li>\n        <a href=\"http://bbs.egret-labs.org/\" target=\"_blank\" title=\"Egret社区\">Egret社区</a>\n      </li>\n      <li>\n        <a href=\"https://meiqia.com/integrations\" target=\"_blank\" title=\"美洽客服\">美洽客服</a>\n      </li>\n    </ul>\n  </div>\n</footer>\n\n<!-- 微信弹出框 -->\n<div class=\"weixin-mod\">\n  <div class=\"weixin-inner\">\n    <a class=\"weixin-close\"><i class=\"am-icon-times-circle\"></i></a>\n    <div class=\"qrcode-weixin\">\n      <img src=\"__PUBLIC__/Home/images/qrcode-weixin.jpg\" alt=\"\">\n    </div>\n    <div class=\"weixin-info\">在微信上关注我们</div>\n  </div>\n</div>\n</body>\n<!--[if lt IE 9]>\n<script src=\"http://libs.baidu.com/jquery/1.11.1/jquery.min.js\"></script>\n<script src=\"http://cdn.staticfile.org/modernizr/2.8.3/modernizr.js\"></script>\n<script src=\"__PUBLIC__/Home/js/polyfill/rem.min.js\"></script>\n<script src=\"__PUBLIC__/Home/js/polyfill/respond.min.js\"></script>\n<script src=\"__PUBLIC__/Home/js/amazeui.legacy.js\"></script>\n<![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!-->\n<script src=\"__PUBLIC__/Home/js/jquery.min.js\"></script>\n<script src=\"__PUBLIC__/Home/js/amazeui.min.js\"></script>\n<script src=\"__PUBLIC__/Home/js/app.js\"></script>\n<!--<![endif]-->\n</html>",
+			"<!-- 手机版侧滑菜单 -->\n<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1  menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>",
+			"assets",
+			"<!DOCTYPE html>\n<html>\n<head lang=\"en\">\n  <meta charset=\"UTF-8\">\n  <title>About Page | Amaze UI Example</title>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n  <meta name=\"format-detection\" content=\"telephone=no\">\n  <meta name=\"renderer\" content=\"webkit\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-siteapp\"/>\n  <link rel=\"alternate icon\" type=\"image/png\" href=\"assets/i/favicon.png\">\n  <link rel=\"stylesheet\" href=\"assets/css/amazeui.min.css\"/>\n  <link rel=\"stylesheet\" href=\"assets/css/app.css\"/>\n</head>\n<body>\n<!-- 手机版侧滑菜单 -->\n<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1 menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 菜单-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"assets/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n</header>",
+			"assets",
+			"<!DOCTYPE html>\n<html>\n<head lang=\"en\">\n  <meta charset=\"UTF-8\">\n  <title>About Page | Amaze UI Example</title>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n  <meta name=\"format-detection\" content=\"telephone=no\">\n  <meta name=\"renderer\" content=\"webkit\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-siteapp\"/>\n  <link rel=\"alternate icon\" type=\"image/png\" href=\"assets/i/favicon.png\">\n  <link rel=\"stylesheet\" href=\"assets/css/amazeui.min.css\"/>\n  <link rel=\"stylesheet\" href=\"assets/css/app.css\"/>\n</head>\n<body>\n<!-- 手机版侧滑菜单 -->\n<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1 menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 菜单-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"assets/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n</header>\n",
+			"<!DOCTYPE html>\n<html>\n<head lang=\"en\">\n  <meta charset=\"UTF-8\">\n  <title>Products Page | Amaze UI Example</title>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n  <meta name=\"format-detection\" content=\"telephone=no\">\n  <meta name=\"renderer\" content=\"webkit\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-siteapp\"/>\n  <link rel=\"alternate icon\" type=\"image/png\" href=\"assets/i/favicon.png\">\n  <link rel=\"stylesheet\" href=\"assets/css/amazeui.min.css\"/>\n  <link rel=\"stylesheet\" href=\"assets/css/app.css\"/>\n</head>\n<body>\n<!-- 手机版侧滑菜单 -->\n<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1  menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 菜单-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"assets/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n</header>\n",
+			"<!DOCTYPE html>\n<html>\n<head lang=\"en\">\n  <meta charset=\"UTF-8\">\n  <title>Pricing Page | Amaze UI Example</title>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n  <meta name=\"format-detection\" content=\"telephone=no\">\n  <meta name=\"renderer\" content=\"webkit\">\n  <meta http-equiv=\"Cache-Control\" content=\"no-siteapp\"/>\n  <link rel=\"alternate icon\" type=\"image/png\" href=\"assets/i/favicon.png\">\n  <link rel=\"stylesheet\" href=\"assets/css/amazeui.min.css\"/>\n  <link rel=\"stylesheet\" href=\"assets/css/app.css\"/>\n</head>\n<body>\n<!-- 手机版侧滑菜单 -->\n<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1  menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 菜单-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"assets/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n</header>",
+			"assets",
+			"<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1  menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 导航-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"__PUBLIC__/Home/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1  menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 导航-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"__PUBLIC__/Home/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n<extend name=\"Public:common\"/>\n<block name=\"main\"/>",
+			"<div id=\"navPush\" class=\"am-offcanvas nav-push-content\">\n  <div class=\"am-offcanvas-bar\">\n    <div class=\"am-offcanvas-content \">\n      <ul class=\"am-menu am-menu-offcanvas1  menu-main am-no-layout\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <li><button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button></li>\n        <li><button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button></li>\n      </ul>\n    </div>\n  </div>\n</div>\n\n<!-- 电脑和平板 导航-->\n<header class=\"am-topbar am-topbar-fixed-top\">\n  <div class=\"am-container\">\n    <h1 class=\"am-topbar-brand\">\n      <a href=\"#\"><img src=\"__PUBLIC__/Home/images/logo.png\" /></a>\n    </h1>\n    <button class=\"am-btn am-btn-primary am-show-sm-only nav-push-btn am-topbar-toggle \" data-am-offcanvas=\"{target: '#navPush', effect: 'push'}\">\n      <span class=\"am-sr-only\">导航切换</span> \n      <span class=\"am-icon-bars\"></span>\n    </button>\n    <div class=\"am-collapse am-topbar-collapse\" id=\"collapse-head\">\n      <ul class=\"am-nav am-nav-pills am-topbar-nav\">\n        <li><a href=\"index.html\" class=\"am-active\">首页</a></li>\n        <li><a href=\"products.html\">产品</a></li>\n        <li><a href=\"case.html\">案例</a></li>\n        <li><a href=\"signup.html\">合作</a></li>\n        <li><a href=\"pricing.html\">定制</a></li>\n        <li><a href=\"about.html\">关于</a></li>\n        <!-- 如果有二级菜单 以下是二级菜单代码 -->\n        <!--<li class=\"am-dropdown\" data-am-dropdown>\n          <a class=\"am-dropdown-toggle\" data-am-dropdown-toggle href=\"javascript:;\">\n            案例 <span class=\"am-icon-caret-down\"></span>\n          </a>\n          <ul class=\"am-dropdown-content\">\n            <li class=\"am-dropdown-header\">标题</li>\n            <li><a href=\"#\">1. 默认样式</a></li>\n            <li><a href=\"#\">2. 基础设置</a></li>\n            <li><a href=\"#\">3. 文字排版</a></li>\n            <li><a href=\"#\">4. 网格系统</a></li>\n          </ul>\n        </li>-->\n        <!-- 登录注册按钮 -->\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-secondary am-topbar-btn am-btn-sm\"><span class=\"am-icon-pencil\"></span> 注册</button>\n        </div>\n        <div class=\"am-topbar-right\">\n          <button class=\"am-btn am-btn-primary am-topbar-btn am-btn-sm\"><span class=\"am-icon-user\"></span> 登录</button>\n        </div>\n      </ul>\n    </div>\n  </div>\n<extend name=\"Public:common\"/>\n<block name=\"main\"/>",
+			"</header>",
+			"assets",
+			"__Public__/Home",
+			"__public__/Home",
+			"assets",
+			"__public__/Home",
+			"assets",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"__PUBLIC__/assets",
+			"400px",
+			"132px",
+			"2015",
+			"__PUBLIC__/Home/images/",
+			"__PUBLIC__/Home/js/",
+			"__PUBLIC__/Home/images/",
+			"Novel",
+			"{: U('Mien/novel') }",
+			"__PUBLIC__/Home/images/",
+			"__PUBLIC__/Home/js/",
+			"__PUBLIC__/Home/css/",
+			"__PUBLIC__/Home/js/",
+			"__PUBLIC__/Home/css/",
+			"__PUBLIC__/Home/images",
+			"__PUBLIC__/Admin/images",
+			"__PUBLIC__/Home/js/www_zzjs_net.js",
+			"__PUBLIC__/Home",
+			"__PUBLIC__/Admin",
+			"</block>",
+			"<extend name=\"Public:common\"/>\n<block name=\"main\">",
+			"__PUBLIC__/Home",
+			"<extend name=\"Public:common\"/>\n<block>",
+			"__PUBLIC__/Home",
+			"<extend name=\"Public:common\"/>\n<block>",
+			"__PUBLIC__/Home",
+			"<extend name=\"Public:common\"/>\n<block name=\"main\"/>",
+			"__PUBLIC__/Home",
+			"__Public__/Home",
+			"assets",
+			"__Public__/Home",
+			"__public__/Home",
+			"assets",
+			"__public__/Home"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/templates/tabs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/templates/tab-calendar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "runner.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Grades\\ThinkPHP\\Library\\Vendor\\phpRPC\\pecl\\xxtea\\INSTALL"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
