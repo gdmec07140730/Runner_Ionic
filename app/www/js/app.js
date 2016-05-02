@@ -133,6 +133,42 @@ angular.module('app', ['ionic', 'app.controllers','ngAnimate', 'ui.rCalendar'])
     templateUrl: 'templates/register.html',
     controller: 'RegisterCtrl'
   })
+
+  .state('map',{
+    url:'/map',
+    templateUrl:'templates/map.html',
+    controller:'MapCtrl'
+  })
+
+  .state('walk',{
+    url:'/walk',
+    templateUrl:'templates/walk.html',
+    controller:'WalkCtrl'
+  })
+
+   .state('over-run',{
+    url:'/over-run',
+    templateUrl:'templates/over-run.html',
+    controller:'OverrunCtrl'
+  })
+
+    .state('stop-run',{
+    url:'/stop-run',
+    templateUrl:'templates/stop-run.html',
+    controller:'StoprunCtrl'
+  })
+
+     .state('over-walk',{
+    url:'/over-walk',
+    templateUrl:'templates/over-walk.html',
+    controller:'OverwalkCtrl'
+  })
+
+    .state('stop-walk',{
+    url:'/stop-walk',
+    templateUrl:'templates/stop-walk.html',
+    controller:'StopwalkCtrl'
+  })
   // .state('setting',{
   //   url:'/setting',
   //   templateUrl:'templates/setting.html',

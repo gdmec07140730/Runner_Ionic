@@ -9,7 +9,7 @@
   <ion-tabs class="tabs-balanced tabs-striped tabs-top tabs-icon-left">
     <ion-tab title="跑步" icon-on="ion-android-walk" icon-off="ion-android-walk">
       <ion-view>
-        <ion-content scroll="false" class="main-content">
+        <ion-content scroll="false" overflow-scroll="false">
           <calendar ng-model="calendar.currentDate" calendar-mode="calendar.mode" event-source="calendar.eventSource"
                       range-changed="reloadSource(startTime, endTime)"
                       event-selected="onEventSelected(event)" title-changed="onViewTitleChanged(title)"
@@ -19,7 +19,7 @@
     </ion-tab>
     <ion-tab title="步行" icon-on="ion-man" icon-off="ion-man">
       <ion-view>
-        <ion-content scroll="false" class="main-content">
+        <ion-content scroll="false" overflow-scroll="false">
           <calendar ng-model="calendar.currentDate" calendar-mode="calendar.mode" event-source="calendar.eventSource"
                       range-changed="reloadSource(startTime, endTime)"
                       event-selected="onEventSelected(event)" title-changed="onViewTitleChanged(title)"

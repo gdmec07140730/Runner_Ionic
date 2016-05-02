@@ -103,3 +103,27 @@ angular.module('app.controllers', [])
 .controller('RegisterCtrl', function ($scope) {
         
 })
+
+.controller('MapCtrl',function ($scope){
+    
+})
+
+.controller('WalkCtrl',function ($scope){
+    
+})
+
+.controller('OverrunCtrl',function ($scope){
+    
+})
+
+.controller('StoprunCtrl',function ($scope){
+    
+})
+
+.controller('OverwalkCtrl',function ($scope){
+    
+})
+
+.controller('StopwalkCtrl',function ($scope){
+    
+})
