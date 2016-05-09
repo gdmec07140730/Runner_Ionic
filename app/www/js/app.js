@@ -46,8 +46,19 @@ angular.module('app', ['ionic', 'app.controllers','ngAnimate', 'ui.rCalendar'])
   $ionicConfigProvider.platform.android.views.transition('android');
 
   $stateProvider
+  .state('tutorial', {
+        url: '/tutorial',
+        templateUrl: 'templates/tutorial.html',
+        controller: 'TutorialCtrl'
+     })
 
-    .state('tab', {
+  .state('me', {
+      url: '/me',
+      templateUrl: 'templates/me.html',
+      controller: 'MeCtrl'
+   })
+  
+  .state('tab', {
     url: '/tab',
     abstract: true,
     templateUrl: 'templates/tabs.html'
@@ -177,6 +188,6 @@ angular.module('app', ['ionic', 'app.controllers','ngAnimate', 'ui.rCalendar'])
 
  
 
-  $urlRouterProvider.otherwise('/tab/sport');
+  $urlRouterProvider.otherwise('/tutorial');
 
 });

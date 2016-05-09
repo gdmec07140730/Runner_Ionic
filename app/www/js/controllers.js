@@ -127,3 +127,36 @@ angular.module('app.controllers', [])
 .controller('StopwalkCtrl',function ($scope){
     
 })
+
+.controller('MeCtrl',function ($scope){
+
+})
+
+.controller('TutorialCtrl', function($scope, $state, $ionicViewService) {
+
+  //window.localStorage['didTutorial'] = false;// For Test
+
+  var startApp = function() {
+    //$ionicViewService.clearHistory();
+    $state.go('me');
+    //window.localStorage['didTutorial'] = true;
+  };
+/*
+  if(window.localStorage['didTutorial'] === "true") {
+    console.log('Skip intro');
+    // 向导页面只显示一次
+    startApp();
+  } else {
+    setTimeout(function () {
+      navigator.splashscreen.hide();
+    }, 750);
+  }
+*/
+  // "立即体验"按钮Event
+  $scope.gotoMain = function() {
+    startApp();
+  }
+
+ // $scope.slideHasChanged = function(index) {
+ // };
+})
